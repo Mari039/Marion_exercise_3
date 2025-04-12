@@ -4,10 +4,9 @@
 the topic for this excercise is Hailey's hotel. Where its costomers had a few problms bookig hailey's ooms. They were disaified on the long wait and the way it's currently. 
 So my design should help create the website and select the   
 
-##Download the file and select the index.html then double cick on the file.
-if the site didn't show.do Right click, open with, select any browser
+##Download the file and select the index.html to start
 
-##Attributes of Code origin
+##Attributes of Code
 
 https://html.spec.whatwg.org/multipage/semantics.html
 https://stackoverflow.com/questions/17935819/why-is-this-html5-document-invalid
@@ -30,6 +29,9 @@ https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
 
 css background
 https://www.w3schools.com/cssref/pr_background-image.php
+https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet
 
 adding radius 
 https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+
+
