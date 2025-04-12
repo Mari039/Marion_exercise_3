@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#D0BC9D;
+    color: #222;
+    display: grid;
+    grid-template-columns: .1fr 2fr .1fr; /*jade's tutorial*/
+    grid-template-rows: 1fr 8fr 1fr ; /*mozilla*/
+    grid-template-areas:
+      "Section1 Section2 Section3"
+      "Section4 Section5 Section6"
+      "Section7 Section8 Section9";
+  
+}
+
+.Background-Img-round{
+
+
+    width: 30%;
+    height: 100%;
+    border-radius: 25px;
+    background-image:url("Images/Square.png");
+
+
+  }
+
+  .form-control{
+    width: 50%;
+    text-align: center;
+    height:40px;
+    font-size: 13pt;
+  }
+
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px 0;
+    z-index: 10;
+    }
+
+.midsection {
+
+
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack everything */
+    align-items: center; /* Center horizontally */
+    grid-area: Section5; 
+
+    }
+    
+.header {
+    text-align: center;
+    align-items: center; /* Center horizontally */
+    grid-area: Section2; 
+  }
+
+
+.submit-button {
+  background-color: #8a9a5b; /* muted green */
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  font-size: 30px;
+  padding:10px 90px;
+  text-decoration:none;
+  width: 200px;
+}

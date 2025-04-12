@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:#D0BC9D;
+    color: #222;
+
+  }
+
+  /* .booking-form {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 14px;
+  }   */
+
+  .Background-Img-round{
+    width: 20%;
+    border-radius: 5%;
+    background-image:url("Images/Square.png");
+
+  }
+
+  .booking-form input {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    text-align: center;
+    
+
+  }
+  
+
+.submit-button {
+    background-color: #8a9a5b; 
+    color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: .5px;
+    text-decoration:none;
+
+}
+/* 
+  .booking-form test {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+
+  } */
+  .bottom-nav {
+    position: fixed;
+    bottom: 0; /*Give fixed postion on the page*/
+    left: 0; /*might not need */
+    width: 100%;
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px 0;
+    z-index: 10; /* most important one so the menu goes on top because items might cover it*/
+  }
+
+  .center-container {
+        text-align: center;
+        display: flex;
+        flex-direction: column; /* Stack everything from mozilla dev*/
+        align-items: center; /* center everything from mozilla dev*/
+      }
