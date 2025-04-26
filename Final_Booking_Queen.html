@@ -28,7 +28,7 @@
 </div> 
  <div class="midsection1b">
     <div class="Background-Img-round1b">
-        <form>
+        <form action="Book_Confirmation_King.html">
             <p></p><br>
             <label for="title">Title:</label><br>
             <input type="text" id="title" name="title" class="form-control"><br>
@@ -52,8 +52,10 @@
             <label for="Special_Request">Special Request:</label><br>
             <textarea id="Special_Request" name="Special_Request" rows="8" class="form-control"></textarea><br>
             <p></p><br>
-            <a href="Check_Available_page.html" target="_blank" class="back-button" >Back</a>
-            <a href="Book_Confirmation_Queen.html" target="_blank" class="submit-button" >Submit</a>
+            <!-- <a href="Check_Available_page.html" target="_blank" class="back-button" >Back</a>
+            <a href="Book_Confirmation_Queen.html" target="_blank" class="submit-button" >Submit</a> -->
+            <input type="button" value="Back" class="back-button" onclick="history.go(-1)"/>
+            <input type="submit" value="Submit" class="submit-button">    
         <p></p><br>
         </form>
 </div>

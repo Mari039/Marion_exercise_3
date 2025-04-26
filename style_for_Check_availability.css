@@ -17,7 +17,7 @@ body {
     width: auto;
     height: 40%;
     border-radius: 25px;
-    background-image:url("Images/Square.png");
+    background-color: #fff;
     text-align: left;
     display: flex;
     grid-area: Section5; 
