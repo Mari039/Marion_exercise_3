@@ -6,32 +6,32 @@ So my design would book, update and cancel booking.
 
 ##Download the file and select the index.html to start
 
-##Attributes of Code
+##Attributes of Code<br />
+https://html.spec.whatwg.org/multipage/semantics.html <br />
+https://stackoverflow.com/questions/17935819/why-is-this-html5-document-invalid<br />
 
-https://html.spec.whatwg.org/multipage/semantics.html
-https://stackoverflow.com/questions/17935819/why-is-this-html5-document-invalid
 
-Break line
+##Break line<br />
 http://w3schools.com/tags/tag_br.asp
 
-Inputs and drop down
-https://www.w3schools.com/tags/att_input_type_date.asp
-https://www.w3schools.com/TAgs/tag_input.asp
-https://www.geeksforgeeks.org/html-input-list-attribute/
+##Inputs and drop down<br />
+https://www.w3schools.com/tags/att_input_type_date.asp<br />
+https://www.w3schools.com/TAgs/tag_input.asp<br />
+https://www.geeksforgeeks.org/html-input-list-attribute/<br />
 
-Submit button 
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit
-https://www.w3schools.com/html/html_links.asp
-https://stackoverflow.com/questions/43501028/how-to-hyperlink-an-image
-https://stackoverflow.com/questions/70481877/href-for-image-goes-beyond-image-in-html-website-with-css
-https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
+##Submit button <br />
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit<br />
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit<br />
+https://www.w3schools.com/html/html_links.asp<br />
+https://stackoverflow.com/questions/43501028/how-to-hyperlink-an-image<br />
+https://stackoverflow.com/questions/70481877/href-for-image-goes-beyond-image-in-html-website-with-css<br />
+https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML<br />
 
-CSS background
-https://www.w3schools.com/cssref/pr_background-image.php
-https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet
+##CSS background<br />
+https://www.w3schools.com/cssref/pr_background-image.php<br />
+https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet<br />
 
-Adding radius 
-https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+Adding radius <br />
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius<br />
 
 
