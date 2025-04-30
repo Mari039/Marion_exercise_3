@@ -1,8 +1,8 @@
 ##Haileys Hotel Project
 
-##This project is to showcase the uses of HTML and CSS.This project shows how I turn my designs from figma into a webpage. 
-the topic for this excercise is Hailey's hotel. Where its costomers had a few problms bookig hailey's ooms. They were disaified on the long wait and the way it's currently. 
-So my design should help create the website and select the   
+##This project is to showcase the uses of HTML and CSS.This project shows how I turn my designs from figma into static webpage. 
+the topic for this excercise is Hailey's hotel. Where it's costomers had a few problems booking room. They were disaified on the long wait and the way it's currently. 
+So my design would book, update and cancel booking. 
 
 ##Download the file and select the index.html to start
 
@@ -27,11 +27,11 @@ https://stackoverflow.com/questions/43501028/how-to-hyperlink-an-image
 https://stackoverflow.com/questions/70481877/href-for-image-goes-beyond-image-in-html-website-with-css
 https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
 
-css background
+CSS background
 https://www.w3schools.com/cssref/pr_background-image.php
 https://stackoverflow.com/questions/14730484/add-a-link-to-an-image-in-a-css-style-sheet
 
-adding radius 
+Adding radius 
 https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
 
 
