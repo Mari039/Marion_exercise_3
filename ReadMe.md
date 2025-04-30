@@ -35,3 +35,16 @@ Adding radius <br />
 https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius<br />
 
 
+##Testing<br />
+HTML Validator<br />
+CSS Validator<br />
+
+##GitHub Pages Deployment<br />
+Made repo into public<br />
+under pages>Build and Deploy<br />
+Select Github action on drop down<br />
+Commit changes<br />
+Add Description <br />
+Link to site -  https://mari039.github.io/Marion_exercise_3/index.html
+
+
